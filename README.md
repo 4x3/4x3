@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Dima 👋
+# Hey, I'm Dima 👋
 
 <a href="https://github.com/4x3">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00F2FE&center=true&vCenter=true&width=435&lines=Founder+%26+CEO+%40+IDE+Digital;Architecting+ScopeNode;Crypto+%26+Web3+Enthusiast;Building+Data+Infrastructure" alt="Typing Engine" />
