@@ -3,25 +3,25 @@
 # hi, i'm dima
 
 <a href="https://github.com/4x3">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00F2FE&center=true&vCenter=true&width=435&lines=founder+%26+ceo+%40+ide+digital;building+scopenode;crypto+%26+web3+enthusiast;automation+architect" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00F2FE&center=true&vCenter=true&width=435&lines=Founder+%26+CEO+%40+IDE+Digital;Building+ScopeNode;Crypto+%26+Web3+Enthusiast;Automation+Architect" alt="typing svg" />
 </a>
 
 <br>
 
-i'm an 18-year-old developer, business owner, and crypto enthusiast focused on building high-performance automation tools, scalable web applications, and ai infrastructure.
+i'm an 18-year-old developer, business owner, and crypto enthusiast focused on building high-performance automation tools, scalable web applications, and AI infrastructure.
 
 </div>
 
 ---
 
 ### what i'm building
-* **[ide digital](https://github.com/ide-digital):** a full-scale digital agency handling web design, development, marketing, branding, and graphic design.
-* **[scopenode](https://github.com/ScopeNode):** a multimodal ai that generates quotes for construction workers using ai analysis of photos and videos.
+* **[IDE Digital](https://github.com/ide-digital):** a full-scale digital agency handling web design, development, marketing, branding, and graphic design.
+* **[ScopeNode](https://github.com/ScopeNode):** a multimodal AI that generates quotes for construction workers using AI analysis of photos and videos.
 
 ### featured projects
-* **[vertex](https://github.com/4x3/Vertex):** high-performance, multi-platform osint and lead generation cli that extracts and enriches social media profiles at scale.
-* **[solaris](https://github.com/4x3/Solaris):** high-performance solana blockchain explorer and data analytics web application.
-* **[crypto-exchange-bot](https://github.com/4x3/crypto-exchange-bot):** scalable cryptocurrency exchange and trading bot built for discord communities.
+* **[Vertex](https://github.com/4x3/Vertex):** Vertex is a high-performance, multi-platform OSINT and lead generation CLI that extracts, bypasses, and enriches social media profiles at scale.
+* **[Nexus](https://github.com/4x3/Nexus):** An automated, zero-dependency forensic auditor for mapping local credential surfaces and browser database exposure on Windows environments.
+* **[Haunt](https://github.com/4x3/Haunt):** An open-source Discord bot delivering comprehensive Minecraft and Hypixel network statistics directly to your server.
 
 ### tech stack & tools
 <div align="center">
@@ -49,5 +49,5 @@ i'm an 18-year-old developer, business owner, and crypto enthusiast focused on b
 
 <div align="center">
   <i>"building the infrastructure to scale."</i><br>
-  reach out if you want to collaborate on ai tools, web3 analytics, or web infrastructure.
+  reach out if you want to collaborate on AI tools, Web3 analytics, or web infrastructure.
 </div>
