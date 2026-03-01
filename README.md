@@ -16,7 +16,7 @@ I'm an 18-year-old developer, business owner, and crypto enthusiast architecting
 
 ### Initiatives
 * **[IDE Digital](https://github.com/ide-digital):** Full-scale digital agency engineering custom web design, development, marketing, branding, and automated systems.
-* **[ScopeNode](https://github.com/ScopeNode):** Multimodal AI generating automated quotes for construction workers via deep analysis of visual data.
+* **[ScopeNode](https://github.com/ScopeNode):** Multimodal AI generating automated quotes for contractors via deep analysis of visual data.
 
 ### Open Source & Archives
 * **[Vertex](https://github.com/4x3/Vertex):** A high-performance, multi-platform OSINT and lead generation CLI that extracts, bypasses, and enriches social media profiles at scale.
