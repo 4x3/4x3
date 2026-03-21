@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=3000&color=c9d1d9&center=true&vCenter=true&width=500&lines=Hey,+I'm+Dima+👋" alt="Hey, I'm Dima" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=4000&color=c9d1d9&center=true&vCenter=true&width=500&lines=Hey,+I'm+Dima+👋;Hey,+I'm+Dima+👋" alt="Hey, I'm Dima" />
 
 <br>
 
-I'm an 18-year-old developer architecting high-performance automation, OSINT tooling, and scalable web infrastructure.
+I'm an 18-year-old developer building high-performance automation, OSINT tooling, and scalable web infrastructure.
 
 </div>
 
 ---
 
-### Open Source
+### Featured Projects
 * **[Vertex](https://github.com/4x3/Vertex):** A high-performance, multi-platform OSINT and lead generation CLI.
 * **[SteamHourBooster](https://github.com/4x3/SteamHourBooster):** An automated utility for farming and boosting playtime hours across Steam games.
 * **[Haunt](https://github.com/4x3/Haunt):** An open-source Discord bot delivering comprehensive Minecraft and Hypixel network statistics.
