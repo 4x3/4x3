@@ -11,14 +11,6 @@ i build high-performance automation, osint tools, and scalable web infrastructur
 ---
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,linux,cloudflare,discord&theme=dark" alt="Tech Stack" />
-  </a>
-</div>
-
----
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4x3&show_icons=false&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4x3&layout=compact&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e" height="165" alt="Top Languages" />
 </div>
