@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=2000&color=c9d1d9&center=true&vCenter=true&width=500&lines=hey,+i'm+dima+👋;hey,+i'm+dima+👋&v=1" alt="hey, i'm dima" />
+<img src="https://readme-typing-svg.vercel.app/?font=Inter&weight=700&size=32&pause=3000&color=c9d1d9&center=true&vCenter=true&width=500&lines=hey,+i'm+dima+👋;hey,+i'm+dima+👋" alt="hey, i'm dima" />
 
 <br>
 
-i'm an 18-year-old developer building high-performance automation, osint tooling, and scalable web infrastructure.
+i build high-performance automation, osint tools, and scalable web infrastructure.
 
 </div>
 
