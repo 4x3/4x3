@@ -4,8 +4,8 @@
 
 # hey, i'm dima 👋
 
-i build tools and web apps — python, next.js, and whatever gets the job done.  
-mostly into osint, discord bots, automation, and full-stack projects with a backend lean.
+i build high-performance automation, osint tools, and scalable web infrastructure.  
+mostly into data scraping, discord bots, and full-stack projects with a focus on web3 and backend systems.
 
 ---
 
@@ -25,7 +25,7 @@ mostly into osint, discord bots, automation, and full-stack projects with a back
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-**tools & other** ![Discord.py](https://img.shields.io/badge/-Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
+**tools & other** ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -34,9 +34,9 @@ mostly into osint, discord bots, automation, and full-stack projects with a back
 
 | Project | Description | Stars |
 |---------|------------|-------|
-| [**Vertex**](https://github.com/4x3/Vertex) | High-performance OSINT & lead gen CLI | ![Stars](https://img.shields.io/github/stars/4x3/Vertex?style=flat-square&color=yellow) |
-| [**Nexus**](https://github.com/4x3/Nexus) | Automated forensic auditor for credential mapping | ![Stars](https://img.shields.io/github/stars/4x3/Nexus?style=flat-square&color=yellow) |
-| [**Haunt**](https://github.com/4x3/Haunt) | Open-source Discord bot for Minecraft network stats | ![Stars](https://img.shields.io/github/stars/4x3/Haunt?style=flat-square&color=yellow) |
+| [**Vertex**](https://github.com/4x3/Vertex) | High-performance OSINT & lead gen CLI — bypasses and enriches profiles at scale | ![Stars](https://img.shields.io/github/stars/4x3/Vertex?style=flat-square&color=yellow) |
+| [**Nexus**](https://github.com/4x3/Nexus) | Automated forensic auditor — maps local credential surfaces and browser databases | ![Stars](https://img.shields.io/github/stars/4x3/Nexus?style=flat-square&color=yellow) |
+| [**Haunt**](https://github.com/4x3/Haunt) | Open-source Discord bot — delivers comprehensive Minecraft & Hypixel network stats | ![Stars](https://img.shields.io/github/stars/4x3/Haunt?style=flat-square&color=yellow) |
 
 ---
 
@@ -44,8 +44,4 @@ mostly into osint, discord bots, automation, and full-stack projects with a back
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4x3&theme=tokyonight" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4x3&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="
+  <img src="https://github-profile-summary
