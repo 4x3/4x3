@@ -10,11 +10,6 @@ i build high-performance automation, osint tools, and scalable web infrastructur
 
 ---
 
-### Featured Projects
-* **[Vertex](https://github.com/4x3/Vertex):** A high-performance, multi-platform OSINT and lead generation CLI.
-* **[SteamHourBooster](https://github.com/4x3/SteamHourBooster):** An automated utility for farming and boosting playtime hours across Steam games.
-* **[Haunt](https://github.com/4x3/Haunt):** An open-source Discord bot delivering comprehensive Minecraft and Hypixel network statistics.
-
 ### Stack
 <div align="center">
   <a href="https://skillicons.dev">
