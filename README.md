@@ -1,37 +1,51 @@
-<div align="center">
+<p align="center">
+  <img src="https://github.com/4x3.png" width="150" style="border-radius: 50%;" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=c9d1d9&center=true&vCenter=true&repeat=false&width=500&lines=Hey,+I'm+Dima+👋" alt="Hey, I'm Dima" />
+# hey, i'm dima 👋
 
-<br>
-
-I'm an 18-year-old developer architecting high-performance automation, OSINT tooling, and scalable web infrastructure.
-
-</div>
-
----
-
-### Open Source
-* **[Vertex](https://github.com/4x3/Vertex):** A high-performance, multi-platform OSINT and lead generation CLI.
-* **[Nexus](https://github.com/4x3/Nexus):** An automated forensic auditor for mapping local credential surfaces and browser database exposure.
-* **[Haunt](https://github.com/4x3/Haunt):** An open-source Discord bot delivering comprehensive Minecraft and Hypixel network statistics.
-
-### Stack
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,linux,cloudflare,discord&theme=dark" alt="Tech Stack" />
-  </a>
-</div>
+i build tools and web apps — python, next.js, and whatever gets the job done.  
+mostly into osint, discord bots, automation, and full-stack projects with a backend lean.
 
 ---
 
-### Telemetry
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4x3&show_icons=false&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4x3&layout=compact&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e" height="165" alt="Top Languages" />
-</div>
+### 🛠 tech stack
 
-<br>
+**languages** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<div align="center">
-  <i>Architecting the systems of tomorrow.</i>
-</div>
+**frontend** ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**backend & infrastructure** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**tools & other** ![Discord.py](https://img.shields.io/badge/-Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📌 featured projects
+
+| Project | Description | Stars |
+|---------|------------|-------|
+| [**Vertex**](https://github.com/4x3/Vertex) | High-performance OSINT & lead gen CLI | ![Stars](https://img.shields.io/github/stars/4x3/Vertex?style=flat-square&color=yellow) |
+| [**Nexus**](https://github.com/4x3/Nexus) | Automated forensic auditor for credential mapping | ![Stars](https://img.shields.io/github/stars/4x3/Nexus?style=flat-square&color=yellow) |
+| [**Haunt**](https://github.com/4x3/Haunt) | Open-source Discord bot for Minecraft network stats | ![Stars](https://img.shields.io/github/stars/4x3/Haunt?style=flat-square&color=yellow) |
+
+---
+
+### 📊 github stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4x3&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4x3&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="
