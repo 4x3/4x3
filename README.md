@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=false&width=500&lines=Hey,+I'm+Dima+👋" alt="Hey, I'm Dima" />
-
-<a href="https://github.com/4x3">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Software+Engineer;OSINT+%26+Automation;Crypto+%26+Web3+Enthusiast;Building+Data+Infrastructure" alt="Typing Engine" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=c9d1d9&center=true&vCenter=true&repeat=false&width=500&lines=Hey,+I'm+Dima+👋" alt="Hey, I'm Dima" />
 
 <br>
 
@@ -30,8 +26,8 @@ I'm an 18-year-old developer architecting high-performance automation, OSINT too
 
 ### Telemetry
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4x3&show_icons=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4x3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4x3&show_icons=false&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4x3&layout=compact&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e" height="165" alt="Top Languages" />
 </div>
 
 <br>
