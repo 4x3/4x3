@@ -1,12 +1,8 @@
-<div align="center">
-
 <img src="https://readme-typing-svg.vercel.app/?font=Inter&weight=700&size=32&pause=3000&color=c9d1d9&center=true&vCenter=true&width=500&lines=hey,+i'm+dima;hey,+i'm+dima" alt="hey, i'm dima" />
 
 <br>
 
 i build high-performance automation, osint tools, and scalable web infrastructure.
-
-</div>
 
 ---
 
