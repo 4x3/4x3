@@ -7,7 +7,6 @@
 i build high-performance automation, osint tools, and scalable web infrastructure.
 
 </div>
-
 ---
 
 <div align="center">
